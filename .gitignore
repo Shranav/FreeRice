@@ -2,3 +2,4 @@
 pyvenv.cfg
 .idea/
 venv/
+geckodriver.log
