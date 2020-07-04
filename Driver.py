@@ -94,3 +94,4 @@ if __name__ == '__main__':
     url1 = 'https://freerice.com/categories/multiplication-table'
     path1 = r'C:\Users\owner\Downloads\geckodriver.exe'
     main(url1, path1)
+
